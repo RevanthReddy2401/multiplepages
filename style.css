@@ -1,0 +1,95 @@
+.sport{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    margin-top: 20px;
+    box-shadow: 7px 7px 7px rgb(162, 159, 159);
+    opacity: 1;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    border:2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.option{
+    text-align: center;
+    color:rgba(239, 8, 12, 0.718);
+    font-weight: 700;
+    font-size:large ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mpage{
+    margin-bottom: 100px;
+    text-align:center;
+    text-decoration:double;
+    text-shadow: 7px 7px 7px lightslategray;
+}
+.mpage:hover{
+    opacity: 0.7;
+}
+.main-body{
+    background: url(Default_sports_items_of_cricket_football_volleyball_basketball_1.jpg);
+    background-size: cover;
+}
+.mainimg{    
+    width: 400px;
+    height:200px;
+    padding-left: 10px;
+}
+.cric2-html{
+    width:250px;
+    height:200px;
+    padding-top: 15px;
+}
+.box-container{
+    width:300px;
+    height:300px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-bottom: 10px;
+
+}
+.boxpara{
+    font-size: 12px;
+}
+
+.cric-container{
+    display:flex;
+    padding-right: 10px;
+    flex-direction: column;
+    box-align:left;
+    width:300px;
+    height:600px;
+}
+.history{
+    display:flex;
+    flex-direction:row;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+}
+.pitch1{
+    width:300px;
+    height:400px;
+    border: 1px solid gray;
+}
+.pitch2{
+    width:1000px;
+    height:350px;
+    border:1px solid gray;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+.head{
+    text-align: center;
+}
+footer{
+    padding-top: 10px;
+    text-align:center;
+
+}
